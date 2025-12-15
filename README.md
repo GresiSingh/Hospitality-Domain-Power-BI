@@ -19,13 +19,13 @@ AtliQ Grands faced a decline in market share and revenue in the luxury/business 
 
 - [Link to the Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 - [Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWUzMTRiMjUtYzljNS00ZWU1LTlhZWUtYzgwYjMzZmJiMTAyIiwidCI6IjUyM2QzZThmLTQ4NmMtNDA0Ny04NjY5LWQ4ZmE4N2QxZGRiNiJ9)
-- [Link to Presentation Video](#)
 
 
 ### Data Model
 
 
-![DM](https://github.com/SrabanaBaidya/AtliQ-Hospitality-Domain-A-Power-BI-Case-Study/assets/153310253/7a107beb-9245-43a5-b430-a30b518fa151)
+<img width="730" height="466" alt="image" src="https://github.com/user-attachments/assets/7260ffce-e762-4b92-8f3e-f25172be6e76" />
+
 
 The project utilized this comprehensive data model for analysis.
 
@@ -34,10 +34,12 @@ The project utilized this comprehensive data model for analysis.
 This two paged dashboard provides an overall analysis view, offering a holistic perspective on various performance indicators.
 
 
-![Dash 1](https://github.com/SrabanaBaidya/AtliQ-Hospitality-Domain-A-Power-BI-Case-Study/assets/153310253/393c5fc5-c773-4461-a99e-dad5e70c50ea)
+<img width="896" height="498" alt="image" src="https://github.com/user-attachments/assets/eff83c20-07f3-4b5d-a374-ee108a44b38a" />
 
 
-![Dash-2](https://github.com/SrabanaBaidya/AtliQ-Hospitality-Domain-A-Power-BI-Case-Study/assets/153310253/7a8b8b9b-10f9-4ca1-9620-f6423dd1e174)
+
+<img width="891" height="499" alt="image" src="https://github.com/user-attachments/assets/7238f636-21b0-4f32-99dd-bffcc07b3bba" />
+
 
 
 Throughout the project, several valuable insights and skills were acquired:
@@ -45,19 +47,3 @@ Throughout the project, several valuable insights and skills were acquired:
 - **Cancellation Policies:** Explored various cancellation policies, discovering that most hotels charge zero fees if canceled within three months of booking.
 - **Bookmark and Selection Usage:** Implemented bookmarks and selection for effective page navigation and clear filter functionality.
 - **Color Palette:** Utilized a consistent color palette throughout the dashboard for a cohesive visual experience.
-
-## Important Insights
-
-**Week 23 Excellence:** 🌟 Week 23 shines with the highest average rating, reflecting exceptional service and guest satisfaction.
-
-**Weekend Preference:** 🏨 Weekends boast higher occupancy percentages, indicating a preference for leisure stays during the weekend.
-
-**Unknown Booking Mystery:** 🕵️‍♂️ A significant number of bookings are labeled as 'Unknown' type, requiring further investigation to understand customer behavior and preferences.
-
-**Elite Rooms Challenge:** 🛌 Despite having the most bookings, Elite type rooms face a substantial number of cancellations. A closer look is necessary to strategize improvements.
-
-**Consistent Quality:** 🌐 The overall average rating for all hotels stands at a commendable 3.62, indicating a consistent level of quality and service across the board.
-
-**Positive Revenue Trend:** 💰 Total revenue reaches 572.9, surpassing target goals, contributing to the overall success of the revenue management strategy.
-
-**City Insights:** 🏙️ Delhi boasts the highest average occupancy percentage, while Mumbai leads in revenue generation. This suggests an opportunity to optimize pricing strategies in Delhi for increased revenue.
